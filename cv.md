@@ -4,11 +4,13 @@ Pavel Boroda
 
 ### Junior Frontend Developer
 ---
+
 #### **Contact information:** 
    - **Phone:** +7 900 248 45 70
    - **E-mail:** pgboroda@yandex.ru
    - **Telegram:** @borodapg
-     
+=======    
+
 ---
 
 #### **About Myself:**
